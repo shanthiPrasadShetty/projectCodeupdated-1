@@ -1,0 +1,19 @@
+.titleText {
+  font-size:  20px;
+  position: relative;
+  // max-height: 100px;
+  // max-width: 140px;
+
+  .activeTab {
+    color: rgba(255, 255, 255, 1) !important;
+    font-weight: 600 !important;
+    background-color: grey !important;
+    border-width: 1px !important;
+    border-color: rgba(0, 0, 0, 1) !important;
+  }
+}
+
+.textstyle {
+  color: black;
+
+}
